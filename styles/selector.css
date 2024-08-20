@@ -1,0 +1,28 @@
+/* universal selector */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* element selector */
+h1 {
+  color: red;
+}
+/* class selector */
+.section {
+  border: 2px solid green;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+/* id selector */
+#heading {
+  color: blue;
+}
+/* descendant selector */
+div p {
+  color: rgb(12, 166, 238);
+}
+/* child selector */
+ul > li {
+  color: aqua;
+}
