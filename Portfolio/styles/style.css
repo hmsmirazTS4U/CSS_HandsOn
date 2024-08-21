@@ -62,11 +62,11 @@ body {
 .purple-hadding2 {
   font-size: 14px;
 }
-.bottom-banner {
+/* .bottom-banner {
   background-image: url(/portfolio/images/shape2.png);
   background-repeat: no-repeat;
   background-position: right bottom 300px ;
-}
+} */
 .footer {
   height: 400px;
   background-color: #3C2F2F;
